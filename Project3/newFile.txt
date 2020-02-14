@@ -1,0 +1,1 @@
+Top -> (   bccaaa,      Bdd)->(      Bdd,      acc)->(      acc,      Acc)->(      Acc,jIJkLlMmN)->(jIJkLlMmN,     Hijk)->(     Hijk,     ZZZZ)->(     ZZZZ,      xyz)->(      xyz,      XyZ)->(      XyZ,      zxc)->(      zxc,     AAbb)->(     AAbb,       aA)->(       aA,     bbaa)->(     bbaa,   ccaabB)->(   ccaabB,   ccaabb)->(   ccaabb, )->( ,NULL)->NULL

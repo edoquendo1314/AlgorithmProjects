@@ -1,0 +1,10 @@
+Table[0][65]:(9999,       aA)->(       aA,)->(       aA,NULL)->NULL
+Table[0][66]:(9999,   ccaabb)->(   ccaabb,)->(   ccaabb,NULL)->NULL
+Table[0][78]:(9999,jIJkLlMmN)->(jIJkLlMmN,)->(jIJkLlMmN,NULL)->NULL
+Table[0][90]:(9999, )->( ,)->( ,NULL)->NULL
+Table[0][97]:(9999, )->( ,   ccaabb)->(   ccaabb,)->(   ccaabb,NULL)->NULL
+Table[0][98]:(9999, )->( ,   ccaabb)->(   ccaabb,)->(   ccaabb,NULL)->NULL
+Table[0][99]:(9999,       aA)->(       aA,)->(       aA,NULL)->NULL
+Table[0][100]:(9999, )->( ,)->( ,NULL)->NULL
+Table[0][107]:(9999, )->( ,)->( ,NULL)->NULL
+Table[0][122]:(9999, )->( ,)->( ,NULL)->NULL
