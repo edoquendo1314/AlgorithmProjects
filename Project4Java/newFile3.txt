@@ -1,0 +1,17 @@
+m,45
+k,10
+h,12
+kh,22,,k,h
+w,3
+a,3
+wa,6,,w,a
+d,2
+f,2
+df,4,,d,f
+g,5
+dfg,9,,df,g
+wadfg,15,,wa,dfg
+p,18
+wadfgp,33,,wadfg,p
+khwadfgp,55,,kh,wadfgp
+mkhwadfgp,100,,m,khwadfgp
